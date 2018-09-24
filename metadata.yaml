@@ -1,5 +1,5 @@
 _repo: Walks-about-Washington_56104
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Hornby, Lester G. (Lester George)
@@ -8,12 +8,17 @@ contributor:
     deathdate: 1956
     gutenberg_agent_id: '36547'
     url: http://www.gutenberg.org/2009/agents/36547
+covers:
+- cover_type: archival
+  image_path: 56104-h/images/cover.jpg
 creator:
   author:
     agent_name: Leupp, Francis E.
     gutenberg_agent_id: '48671'
     url: http://www.gutenberg.org/2009/agents/48671
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56104#Walks-about-Washington
 gutenberg_issued: '2017-12-02'
 gutenberg_type: Text
 identifiers:
